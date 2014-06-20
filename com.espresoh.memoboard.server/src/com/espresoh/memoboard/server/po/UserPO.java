@@ -2,6 +2,11 @@ package com.espresoh.memoboard.server.po;
 
 import java.io.Serializable;
 
+/**
+ * 
+ * @author cosminghita
+ *
+ */
 public class UserPO implements Serializable
 {
 	
